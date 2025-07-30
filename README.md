@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![tryhackme stats](https://raw.githubusercontent.com/Red-Eye999/Red-Eye999/master/assets/thm_propic.png)
 <!--
 **Red-Eye999/Red-Eye999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
